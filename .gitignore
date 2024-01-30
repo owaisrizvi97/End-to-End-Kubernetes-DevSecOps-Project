@@ -1,0 +1,10 @@
+# .gitignore
+
+# Exclude all files with .tfstate extension
+*.tfstate
+*.tfstate.*
+
+# Exclude all files in a specific directory
+#some-directory/
+
+Jenkins-Server-TF/.terraform/
