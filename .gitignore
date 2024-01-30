@@ -5,6 +5,5 @@
 *.tfstate.*
 
 # Exclude all files in a specific directory
-#some-directory/
 
 .terraform/
