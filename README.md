@@ -40,6 +40,25 @@ The `Kubernetes-Manifests-Files` directory holds Kubernetes manifests for deploy
 - Helm charts for efficient monitoring setup
 - GitOps with ArgoCD - the cherry on top!
 
+  **Jenkins Build for Frontend**
+
+  **Jenkins Build for Frontend**
+
+  **Sonar Scanning of Code Analaysis**
+
+  **Private ECR Repo**
+
+  **AWS Load Balancers for Monitoring & GitOps**
+
+  **EKS Nodes with Jenkins Master**
+
+  **Graffana Dashboard**
+
+  **Prometheus Dashboard**
+
+  **ArgoCD deployment**
+
+
 📈 **The journey covered everything from setting up tools to deploying a Three-Tier app, ensuring data persistence, and implementing CI/CD pipelines.**
 
 ## License
