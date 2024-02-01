@@ -40,23 +40,47 @@ The `Kubernetes-Manifests-Files` directory holds Kubernetes manifests for deploy
 - Helm charts for efficient monitoring setup
 - GitOps with ArgoCD - the cherry on top!
 
-  **Jenkins Build for Frontend**
+## Jenkins Build for Frontend
 
-  **Jenkins Build for Frontend**
+![Jenkins-frontend Banner](assets/1 - f9beBWZ.png)
 
-  **Sonar Scanning of Code Analaysis**
 
-  **Private ECR Repo**
+## Jenkins Build for Frontend
 
-  **AWS Load Balancers for Monitoring & GitOps**
+![Jenkins-backend Banner](assets/2 - DKri1UY.png)
 
-  **EKS Nodes with Jenkins Master**
 
-  **Graffana Dashboard**
+## Sonar Scanning of Code Analaysis
 
-  **Prometheus Dashboard**
+![Sonar scanner Banner](assets/3 - AxlwcR5.png)
 
-  **ArgoCD deployment**
+
+## Private ECR Repo
+
+![ECR Banner](assets/4 - fFsn50a.png)
+
+
+## AWS Load Balancers for Monitoring & GitOps
+
+![ALB Banner](assets/5 - S3LXqpn.png)
+
+
+## EKS Nodes with Jenkins Master
+
+![EKS nodes Banner](assets/6 - qABnGNI.png)
+
+## Graffana Dashboard
+
+![graffana Banner](assets/7 - fUS0mom.png)
+
+
+## Prometheus Dashboard
+
+![prometheus Banner](assets/9 - VqvPv4s.png)
+
+## ArgoCD deployment
+
+![argocd Banner](assets/8 - PQY3DI9.png)
 
 
 📈 **The journey covered everything from setting up tools to deploying a Three-Tier app, ensuring data persistence, and implementing CI/CD pipelines.**
