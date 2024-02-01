@@ -42,45 +42,58 @@ The `Kubernetes-Manifests-Files` directory holds Kubernetes manifests for deploy
 
 ## Jenkins Build for Frontend
 
-![Jenkins-frontend Banner](assets/1 - f9beBWZ.png)
+![2 - DKri1UY](https://github.com/owaisrizvi97/End-to-End-Kubernetes-DevSecOps-Project/assets/68285890/ea2aa656-d598-44b2-b211-fe8e293ff6e0)
 
 
-## Jenkins Build for Frontend
 
-![Jenkins-backend Banner](assets/2 - DKri1UY.png)
+## Jenkins Build for Backend
+
+![1 - f9beBWZ](https://github.com/owaisrizvi97/End-to-End-Kubernetes-DevSecOps-Project/assets/68285890/6d3468ef-cc7f-4295-af4a-303e530bc596)
+
 
 
 ## Sonar Scanning of Code Analaysis
 
-![Sonar scanner Banner](assets/3 - AxlwcR5.png)
+![3 - AxlwcR5](https://github.com/owaisrizvi97/End-to-End-Kubernetes-DevSecOps-Project/assets/68285890/38acb4b8-39f7-4f53-a3f8-e59251ce033f)
+
 
 
 ## Private ECR Repo
 
-![ECR Banner](assets/4 - fFsn50a.png)
+
+![4 - fFsn50a](https://github.com/owaisrizvi97/End-to-End-Kubernetes-DevSecOps-Project/assets/68285890/cd6bcba0-6c6d-46d3-8655-57f475962cf9)
+
 
 
 ## AWS Load Balancers for Monitoring & GitOps
 
-![ALB Banner](assets/5 - S3LXqpn.png)
+
+![5 - S3LXqpn](https://github.com/owaisrizvi97/End-to-End-Kubernetes-DevSecOps-Project/assets/68285890/b270791c-d067-4ac2-bbde-8171d0fed979)
 
 
 ## EKS Nodes with Jenkins Master
 
-![EKS nodes Banner](assets/6 - qABnGNI.png)
+
+![6 - qABnGNI](https://github.com/owaisrizvi97/End-to-End-Kubernetes-DevSecOps-Project/assets/68285890/c8cd5e79-2757-444a-ad91-57520b3965e2)
+
 
 ## Graffana Dashboard
 
-![graffana Banner](assets/7 - fUS0mom.png)
+
+![7 - fUS0mom](https://github.com/owaisrizvi97/End-to-End-Kubernetes-DevSecOps-Project/assets/68285890/602b9b85-b696-487e-8f15-0f16b0b4604e)
+
 
 
 ## Prometheus Dashboard
 
-![prometheus Banner](assets/9 - VqvPv4s.png)
+
+![9 - VqvPv4s](https://github.com/owaisrizvi97/End-to-End-Kubernetes-DevSecOps-Project/assets/68285890/3a6279fc-8de1-4692-83b4-5c7b34e92144)
+
 
 ## ArgoCD deployment
 
-![argocd Banner](assets/8 - PQY3DI9.png)
+
+![8 - PQY3DI9](https://github.com/owaisrizvi97/End-to-End-Kubernetes-DevSecOps-Project/assets/68285890/f13f6c22-04cb-4356-aa31-6d900c97e9de)
 
 
 📈 **The journey covered everything from setting up tools to deploying a Three-Tier app, ensuring data persistence, and implementing CI/CD pipelines.**
